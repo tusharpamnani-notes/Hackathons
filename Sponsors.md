@@ -1,6 +1,6 @@
-# Potential SponsorsS
+# Potential Sponsors
 
-### ticker Partner: LottieFiles
+### Sticker Partner: LottieFiles
 
 ### Web3 Sponsor: 
 - Spheron
