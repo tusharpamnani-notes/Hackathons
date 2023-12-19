@@ -15,6 +15,9 @@
 - FileCoin
 - Replit
 - Tezos
+- VerbWire (wallet)
+- Ton
+- Arcana
 
 ### Other Sponsors:
 - Postman (API Testing)
@@ -36,6 +39,8 @@
 - Fueler (Proof of Work)
 - ApyHub (API tool)
 - VoiceFlow (ChatBot)
+- Kaagaz (Scanner)
+- 
 - JDoodle (IDE)
 - GFG
 - GitHub
