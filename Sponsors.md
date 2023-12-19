@@ -5,13 +5,21 @@
 
 ### Web3 Sponsor: 
 - Spheron
+- Solana
+- Polygon
 - LumosLabs
 - Flovatar (NFT Platform)
 - Zeeve (Deployment and Management platform)
+- Shardeum
+- Builders Tribe
+- FileCoin
+- Replit
+- Tezos
 
 ### Other Sponsors:
 - Postman (API Testing)
 - Orkes (Cloud)
+- DigitalOcean (Cloud)
 - DeepFence (Cyber Security)
 - Coding Ninjas (Competetive Programminga and DSA)
 - FOSS (open source)
@@ -25,6 +33,10 @@
 - 1Password (Password Manager)
 - echo3D (Cloud for 3D assests and Management)
 - Beeceptor (API Testing)
+- Fueler (Proof of Work)
+- ApyHub (API tool)
+- VoiceFlow (ChatBot)
+- JDoodle (IDE)
 - GFG
 - GitHub
 - Quine
